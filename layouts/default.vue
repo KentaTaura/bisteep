@@ -1,14 +1,12 @@
 <template>
   <div>
-    <transition name="fade" mode="out-in" appear>
-      <Nuxt />
-    </transition>
+    <Nuxt />
   </div>
 </template>
 
 <script>
 export default {
-  transition: 'fade'
+  
 }
 </script>
 

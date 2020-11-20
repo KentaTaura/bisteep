@@ -2,10 +2,9 @@
   <div class="container">
     <div>
       <h1 class="title">
-        bisteep
+        about
       </h1>
-      <p>Be Steeped in Creative</p>
-      <NuxtLink to="/about">about</NuxtLink>
+      <NuxtLink to="/">Top</NuxtLink>
     </div>
   </div>
 </template>
